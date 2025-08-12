@@ -3,28 +3,6 @@
 This repository contains **Task 1** of my Data Science & Analytics Internship with **Future Interns**.  
 The project involves building a **Business Sales Dashboard** using **Power BI** for Flipkart-style E-Commerce data, along with **Python data cleaning & preprocessing**.
 
----
-
-## 📁 Project Structure
-FUTURE_DS_01/
-│
-├── Dataset/
-│ ├── flipkart_sales_data.csv # Raw dataset
-│ └── flipkart_sales_cleaned_scaled.csv # Cleaned & scaled dataset
-│
-├── Python_Script/
-│ └── data_cleaning_scaling.py # Python script for data cleaning, null handling, outlier removal, scaling
-│
-├── PowerBI_Dashboard/
-│ └── flipkart_sales_dashboard.pbix # Power BI dashboard file
-│
-├── Screenshots/
-│ ├── dashboard_overview.png
-│ ├── data_table_view.png
-│ └── sales_by_region.png
-│
-└── README.md
-
 
 ---
 
